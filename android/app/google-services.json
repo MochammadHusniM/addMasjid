@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287120125921",
+    "project_id": "masjid-c462f",
+    "storage_bucket": "masjid-c462f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287120125921:android:8f6fa2d9c27ae080b1eca0",
+        "android_client_info": {
+          "package_name": "com.tugas.tugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_pUkHMo7HYKi8bHtg1p6MDr9QJZW8Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
